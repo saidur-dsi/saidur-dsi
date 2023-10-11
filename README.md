@@ -47,7 +47,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=saidur-dsi&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 
 # What companies have I worked for?
-- [Dynamic Solution Innovatos](https://www.dsinnovators.com/)
+- [Dynamic Solution Innovators](https://www.dsinnovators.com/)
 - [Spring Rain Private Ltd](https://springrain.io/)
 
 🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
