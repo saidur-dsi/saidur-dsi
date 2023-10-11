@@ -37,8 +37,20 @@
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
+<!--Github Stats-->
+## My GitHub Stats
+[![committers.top badge](https://user-badge.committers.top/bangladesh_public/saidur-dsi.svg)](https://user-badge.committers.top/bangladesh_public/saidur-dsi)
 
-🚀 When I'm not coding, you can find me exploring the **latest tech trends**, contributing to **open-source projects**, and sharing my knowledge with the developer community. I believe in the power of collaboration and continuous improvement.
+![](https://github-readme-streak-stats.herokuapp.com/?user=saidur-dsi&theme=swift&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=saidur-dsi&show_icons=true&theme=swift&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidur-dsi&layout=compact&show_icons=true&theme=swift&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=saidur-dsi&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
+
+# What companies have I worked for?
+- [Dynamic Solution Innovatos](https://www.dsinnovators.com/)
+- [Spring Rain Private Ltd](https://springrain.io/)
+
+🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
 
 📫 Let's connect and learn from each other. Feel free to reach out, whether it's for collaboration, questions, or just to chat about all things tech!
 
