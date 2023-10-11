@@ -37,7 +37,7 @@
 - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
 
-<!--Github Stats-->
+
 ## My GitHub Stats
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/saidur-dsi.svg)](https://user-badge.committers.top/bangladesh_public/saidur-dsi)
 
@@ -50,6 +50,7 @@
 - [Dynamic Solution Innovators](https://www.dsinnovators.com/)
 - [Spring Rain Private Ltd](https://springrain.io/)
 
+## 
 🚀 When I'm not coding, you can find me exploring the **latest tech trends**, try contributing to **open-source projects** and **stackoverflow**. 
 
 📫 Let's connect and learn from each other. Feel free to reach out, whether it's for collaboration, questions, or just to chat about all things tech!
