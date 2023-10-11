@@ -1,7 +1,6 @@
 ## About Me
 
-👋 Hi there! I'm [Saidur Rahman], a passionate and innovative software engineer with 1.5 years of experience in the world of coding and development. I'm on a journey to create meaningful software solutions that make a difference in the world.
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saidur Rahman</h1>
 
 💡 My areas of expertise include:
 
