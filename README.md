@@ -9,7 +9,7 @@
 ## What do I do?
 - 👨‍💻 Write `C#` `JavaScript` `SQL`  `HTML` `CSS`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/saidur-raahmaan"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=15></a> <!--[LinkedIn](https://www.linkedin.com/in/saidur-raahmaan)--> **JavaScript** and **.NET community**.
-- 📚 Learning about **clean architecture**, **design patterns**, **clean code**, **creative programming**, **system design**, **requirement engineering**.
+- 📚 Learning about **clean architecture**, **design patterns**, **clean code**, **creative programming**, **system design**.
 
 
 ## What skills do I have?
