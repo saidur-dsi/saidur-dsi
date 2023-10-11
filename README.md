@@ -1,5 +1,3 @@
-## About Me
-
 <h1 align="center">👋 Hi, I'm Saidur Rahman</h1>
 
 ## Who am I?
